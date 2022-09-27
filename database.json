@@ -9,9 +9,9 @@
       "Dragon"
     ],
     "linkDeviceName": "dyio",
-    "robotName": "NASA_Curiosity",
-    "robotGitFile": "NASA_Curiosity.xml",
-    "robotGit": "https://github.com/NeuronRobotics/NASACurisoity.git"
+    "robotName": "humanoid",
+    "robotGitFile": "humanoid.xml",
+    "robotGit": "https://gist.github.com/a991ca954460c1ba9860.git"
   },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
